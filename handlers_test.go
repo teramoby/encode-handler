@@ -1,4 +1,4 @@
-package openid
+package handler
 
 import (
 	"compress/gzip"

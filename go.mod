@@ -1,4 +1,4 @@
-module bill828/openid
+module github.com/teramoby/encode-handler
 
 go 1.14
 
